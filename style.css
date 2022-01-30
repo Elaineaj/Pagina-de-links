@@ -1,0 +1,77 @@
+*{
+    border: 0;
+    margin: 0;
+   
+}
+
+body{
+    background-color:#E9BFFF ;
+    display: flex;
+   justify-content: center;
+   align-items: center;
+   flex-direction: column;
+   width: 100%;
+   height: 50em;
+}
+
+.foto{
+   border-radius: 50%;
+   width: 150px;
+   align-items: center;
+   margin-top: 8em;
+   box-shadow: -5px -5px 1px 0px #CDABAB;
+}
+
+.titulo{
+font-family: 'Antic Didone', serif;
+font-size: 22px;
+color: #6441a4;
+}
+
+.fundo{
+    background-color: #D99EF8;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    width: 25em;
+    height: 45em;
+}
+
+.rede_social{
+    font-size: 20px;
+    color: #6441a4;
+}
+
+.facebook{
+    width: 10em;
+    background-color: #ffd7dd; 
+}
+
+.instagram{
+    width: 10em;
+    background-color: #ffd7dd;
+}
+
+.github{
+    width: 10em;
+    background-color: #ffd7dd;
+}
+
+.twitch{
+    width: 10em;
+    background-color: #ffd7dd;
+}
+
+.spotify{
+    width: 10em;
+    background-color: #ffd7dd;
+}
+
+.footer{
+    font-family: 'Open Sans', sans-serif;
+    color: #6441a4;
+
+}
+    
+    
+   
